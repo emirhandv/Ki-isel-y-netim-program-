@@ -1,2 +1,2 @@
-# Ki-isel-y-netim-program-
+# kisisel yonetim programi
 nesneye yönelik proglama proje ödevi
