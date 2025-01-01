@@ -1,5 +1,4 @@
 # kisisel yonetim programi
-#nesneye yönelik proglama proje ödevi
 using System;
 using System.Collections.Generic;
 
